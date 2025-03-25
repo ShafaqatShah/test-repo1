@@ -64,12 +64,11 @@ body{
     height: 200px;
 }
 
-.main2 .row1 div img{
+.main2 .row1 div img {
     margin-top: 107px;
-    margin-left: 70px;
+    margin-left: 105px;
     width: 60px;
     height: 58px;
-
 }
 
 .main2 .row1 div h1{
@@ -97,7 +96,7 @@ body{
     padding-bottom: 0px;
 }
 
-.main2 .row2 h3{
+.main2 .row2 h3 {
     text-align: center;
     font-family: sans-serif;
     font-weight: 700;
@@ -105,12 +104,15 @@ body{
     padding-bottom: 0px;
     margin-bottom: 5px;
     color: #8B0000;
+    font-size: 21px;
 }
 
-.main2 .row2 h4{
+.main2 .row2 h4 {
     text-align: center;
     padding-top: 0px;
     margin-top: 0px;
+    font-size: 20px;
+    font-family: system-ui;
 }
 
 /* main 3 */
@@ -121,12 +123,11 @@ body{
     height: 200px;
 }
 
-.main3 .row1 div img{
+.main3 .row1 div img {
     margin-top: 107px;
-    margin-left: 70px;
+    margin-left: 105px;
     width: 60px;
     height: 58px;
-
 }
 
 .main3 .row1 div h1{
@@ -154,7 +155,7 @@ body{
     padding-bottom: 0px;
 }
 
-.main3 .row2 h3{
+.main3 .row2 h3 {
     text-align: center;
     font-family: sans-serif;
     font-weight: 700;
@@ -162,12 +163,15 @@ body{
     padding-bottom: 0px;
     margin-bottom: 5px;
     color: #8B0000;
+    font-size: 21px;
 }
 
-.main3 .row2 h4{
+.main3 .row2 h4 {
     text-align: center;
     padding-top: 0px;
     margin-top: 0px;
+    font-size: 20px;
+    font-family: system-ui;
 }
 
 /* main 4 */
@@ -177,12 +181,11 @@ body{
     height: 200px;
 }
 
-.main4 .row1 div img{
+.main4 .row1 div img {
     margin-top: 107px;
-    margin-left: 70px;
+    margin-left: 106px;
     width: 60px;
     height: 58px;
-
 }
 
 .main4 .row1 div h1{
@@ -210,7 +213,7 @@ body{
     padding-bottom: 0px;
 }
 
-.main4 .row2 h3{
+.main4 .row2 h3 {
     text-align: center;
     font-family: sans-serif;
     font-weight: 700;
@@ -218,12 +221,15 @@ body{
     padding-bottom: 0px;
     margin-bottom: 5px;
     color: #8B0000;
+    font-size: 21px;
 }
 
-.main4 .row2 h4{
+.main4 .row2 h4 {
     text-align: center;
     padding-top: 0px;
     margin-top: 0px;
+    font-size: 20px;
+    font-family: system-ui;
 }
 
 /* main 5 */
@@ -233,12 +239,11 @@ body{
     height: 200px;
 }
 
-.main5 .row1 div img{
+.main5 .row1 div img {
     margin-top: 107px;
-    margin-left: 70px;
+    margin-left: 106px;
     width: 60px;
     height: 58px;
-
 }
 
 .main5 .row1 div h1{
@@ -266,7 +271,7 @@ body{
     padding-bottom: 0px;
 }
 
-.main5 .row2 h3{
+.main5 .row2 h3 {
     text-align: center;
     font-family: sans-serif;
     font-weight: 700;
@@ -274,12 +279,15 @@ body{
     padding-bottom: 0px;
     margin-bottom: 5px;
     color: #8B0000;
+    font-size: 21px;
 }
 
-.main5 .row2 h4{
+.main5 .row2 h4 {
     text-align: center;
     padding-top: 0px;
     margin-top: 0px;
+    font-size: 20px;
+    font-family: system-ui;
 }
 
 
@@ -290,12 +298,11 @@ body{
     height: 200px;
 }
 
-.main6 .row1 div img{
+.main6 .row1 div img {
     margin-top: 107px;
-    margin-left: 70px;
+    margin-left: 106px;
     width: 60px;
     height: 58px;
-
 }
 
 .main6 .row1 div h1{
@@ -323,7 +330,7 @@ body{
     padding-bottom: 0px;
 }
 
-.main6 .row2 h3{
+.main6 .row2 h3 {
     text-align: center;
     font-family: sans-serif;
     font-weight: 700;
@@ -331,24 +338,26 @@ body{
     padding-bottom: 0px;
     margin-bottom: 5px;
     color: #8B0000;
+    font-size: 21px;
 }
 
-.main6 .row2 h4{
+.main6 .row2 h4 {
     text-align: center;
     padding-top: 0px;
     margin-top: 0px;
-    margin-bottom: 60px;
+    font-size: 20px;
+    font-family: system-ui;
 }
 
 
 
-.footer{
+.footer {
     height: 70vh;
     display: flex;
     align-items: center;
     width: 100%;
     background: rgb(140, 21, 21);
-    clip-path: polygon(43% 0%, 100% 0%, 100% 61%, 0% 392%, 0% 0%);
+    clip-path: polygon(43% 0%, 100% 0%, 104% 61%, 0% 400%, 0% 0%);
 }
 
 .footer .content{
